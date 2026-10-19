@@ -1,0 +1,9 @@
+# Direct dependencies verified with Python 3.11.9 on Windows.
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+opencv-python==5.0.0.93
+pillow==13.0.0
+jupyterlab==4.6.4
+ipykernel==7.4.0
+nbconvert==7.17.2
