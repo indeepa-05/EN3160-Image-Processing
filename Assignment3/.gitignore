@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# PyCharm
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded datasets
+data/
+datasets/
+
+# Model checkpoints and weights
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
